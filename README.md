@@ -5,6 +5,7 @@ To build this project we used a database called Chinook. This is a fictitious da
 
 The Chinook database was downloaded from [Dataquest](https://www.dataquest.io/). 
 
-In this repository you find two files:
+In this repository you find three files:
 - the database file called `chinook-unmodified.db`
 - the Jupyter Notebook with the full code and results `sql_respond_business_questions.ipynb`
+- A diagram describing how the tables are organized `chinook_schema.png`
